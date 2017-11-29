@@ -1,7 +1,7 @@
 #include "rapidjson/writer.h"
 #include "rapidjson/stringbuffer.h"
 #include <iostream>
-
+// g++ simplewriter.cpp -I../../include 
 using namespace rapidjson;
 using namespace std;
 
