@@ -1,5 +1,6 @@
 // JSON simple example
 // This example does not handle errors.
+// g++ simpledom.cpp -I../../include 
 
 #include "rapidjson/document.h"
 #include "rapidjson/writer.h"
